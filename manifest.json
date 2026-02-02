@@ -1,0 +1,22 @@
+{
+  "name": "FreshCool AC Jakarta",
+  "short_name": "FreshCool AC",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "description": "Jasa cuci AC, service AC, isi freon & pasang AC Jakarta. Respon cepat & profesional.",
+  "icons": [
+    {
+      "src": "images/freshcool-new.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/freshcool-new.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
