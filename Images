@@ -1,0 +1,4 @@
+<img src="images/freshcool-new.png" alt="Logo FreshCool AC">
+.hero-bg {
+  background: url('images/bg-header.png') no-repeat center center;
+}
